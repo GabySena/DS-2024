@@ -1,6 +1,0 @@
-numero = input("Digite um número: ")
-numero = float(numero)
-porcentagem  = input("Digite uma porcentagem: ")
-porcentagem = float(porcentagem)
-resultado = numero * (porcentagem / 100)
-print(f"A porcentagem desse número é: {resultado}")
